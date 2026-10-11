@@ -1,0 +1,1 @@
+int addOne(int value);
